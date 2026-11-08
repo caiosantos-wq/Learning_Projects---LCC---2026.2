@@ -1,4 +1,4 @@
-package EstudoInterface;
+package EstudoPoo;
 
 public class Cachorro implements Animal {
 

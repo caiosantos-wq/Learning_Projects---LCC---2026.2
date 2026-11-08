@@ -1,4 +1,4 @@
-package EstudoInterface;
+package EstudoPoo;
 
 public class Gato implements Animal{
     @Override

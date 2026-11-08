@@ -1,4 +1,4 @@
-package EstudoInterface;
+package EstudoPoo;
 
 public interface Animal {
     void Barulho();
