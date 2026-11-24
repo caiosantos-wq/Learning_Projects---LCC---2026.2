@@ -13,6 +13,34 @@ public class Celular {
         this.camera = camera;
     }
 
+    public String getTela() {
+        return tela;
+    }
+
+    public void setTela(String tela) {
+        this.tela = tela;
+    }
+
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
+    }
+
+    public String getArmazenamento() {
+        return armazenamento;
+    }
+
+    public void setArmazenamento(String armazenamento) {
+        this.armazenamento = armazenamento;
+    }
+
+    public String getCamera() {
+        return camera;
+    }
+
+    public void setCamera(String camera) {
+        this.camera = camera;
+    }
+
     public Celular(){
         this("","","","");
     }

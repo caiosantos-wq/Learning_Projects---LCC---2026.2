@@ -9,7 +9,7 @@ public class VendaTelefone {
             String opt = JOptionPane.showInputDialog("Digite uma opção:\n" + "1.Cadastrar produto\n" + "2.Ver estoque\n" + "3.Sair");
             switch (opt){
                 case "1":
-                    JOptionPane.showMessageDialog(null,"Iniciando cadastro");
+                    JOptionPane.showMessageDialog(null,"Iniciando cadastro...");
                     String modelo = JOptionPane.showInputDialog("Nome do modelo: ");
                     String tela = JOptionPane.showInputDialog("Tamanho da tela: ");
                     String armazenamento = JOptionPane.showInputDialog("Tamanho do armazenamento: ");
